@@ -161,12 +161,12 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Online Meeting & Conference
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
-    cookie_info: Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-    cookie_button: I Agree
+    cookie_info: Kami menggunakan session cookie untuk memelihara keadaan aplikasi.
+    cookie_button: Saya Setuju
   copied: Copied
   copy: Copy
   date:
@@ -236,7 +236,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Meeting
   header:
     all_recordings: All Recordings
     dropdown:
@@ -260,9 +260,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to Hulanthalo Lipuu.
-    video: Promo Guys..!
+    about: "Solusi Rapat & Konferensi Online dengan 100 peserta, Video HD, obrolan pribadi, berbagi layar dan file, dengan mengunakan standar keamanan, dan keandalan server terbaik."
+    welcome: Selamat datang di layanan Video Conference.
+    video: Belum memiliki akun? Jadilah bagian dari kami
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
@@ -272,7 +272,7 @@ en:
   mailer:
     user:
       approve:
-        info: Your account has been approved.
+        info: Akun Anda berhasil dibuat.
         signin: To access your personal rooms, click the button below and sign in.
         signin_link: Sign In
         signup:
@@ -439,7 +439,7 @@ en:
   registration:
     approval:
       fail: Your account has not been approved yet. If multiples days have passed since you signed up, please contact your administrator.
-      signup: Your account was successfully created. It has been sent to an administrator for approval.
+      signup: Akun Anda berhasil dibuat. Menunggu persetujuan dari administrator.
     banned:
       fail: You do not have access to this application. If you believe this is a mistake, please contact your administrator. 
     deprecated:

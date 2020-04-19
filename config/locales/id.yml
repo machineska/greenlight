@@ -161,12 +161,12 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Online Meeting & Video Conference
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
-    cookie_info: Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-    cookie_button: I Agree
+    cookie_info: Kami menggunakan session cookie untuk memelihara keadaan aplikasi.
+    cookie_button: Saya Setuju
   copied: Copied
   copy: Copy
   date:
@@ -230,13 +230,13 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: Powered by .
   forgot_password:
     subtitle: Forgot Password
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: ViconTech Server
   header:
     all_recordings: All Recordings
     dropdown:
@@ -247,7 +247,7 @@ en:
       signout: Sign out
   home_room: Home Room
   info_update_success: Information successfully updated.
-  invalid_credentials: The email and password you entered did not match our records. Try again or click Forgot Password to reset your password.
+  invalid_credentials: Email dan kata sandi yang Anda masukkan tidak cocok dengan catatan kami. Silakan coba lagi atau hubungi Administrator.
   invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
   invite_message: "To invite someone to the meeting, send them this link:"
   javascript:
@@ -260,9 +260,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to Hulanthalo Lipuu.
-    video: Promo Guys..!
+    about: "Solusi Rapat & Konferensi Online dengan 100 peserta, Video HD, obrolan pribadi, berbagi layar dan file, serta didukung dengan standar keamanan, dan Performa server yang handal."
+    welcome: Vicon Tech - Online Meeting & Conference.
+    video: Belum memiliki akun? Jadilah bagian dari kami.
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
   language_default: Default (browser language)
@@ -272,7 +272,7 @@ en:
   mailer:
     user:
       approve:
-        info: Your account has been approved.
+        info: Akun Anda berhasil dibuat.
         signin: To access your personal rooms, click the button below and sign in.
         signin_link: Sign In
         signup:
@@ -439,7 +439,7 @@ en:
   registration:
     approval:
       fail: Your account has not been approved yet. If multiples days have passed since you signed up, please contact your administrator.
-      signup: Your account was successfully created. It has been sent to an administrator for approval.
+      signup: Akun Anda berhasil dibuat. Menunggu persetujuan dari administrator.
     banned:
       fail: You do not have access to this application. If you believe this is a mistake, please contact your administrator. 
     deprecated:
